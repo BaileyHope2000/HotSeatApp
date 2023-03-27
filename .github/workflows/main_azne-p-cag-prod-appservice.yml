@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AZNE-P-CAG-PROD-AppService'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_088BBD4ECE8345C29E1D44A2B511761C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E0B9B434403444D49E517DD11378F24C }}
           package: .
